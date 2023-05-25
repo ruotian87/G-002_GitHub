@@ -1,3 +1,3 @@
 New instructions. conflict test - adsfadf
 Sample Branch
-I changed this instructions
+I changed this instructions, again to test PR template
